@@ -1,0 +1,53 @@
+El juego consiste en derrotar a tu oponente devolviendole la pelota
+
+MOVER tu pala:		PREFERENCIAS: 
+
+ - w sube la pala	 - DIFICULTAD: facil, media o dificil.
+ - s baja la pala	 - NUMERO DE PUNTOS: 3 o 5.
+
+			en el menu principal
+
+Puedes JUGAR:
+
+ - Una PARTIDA RAPIDA contra el ordenador,
+	introduciendo "s" o "salir" como nombre de usuario.
+ - Si quieres que se reconozca tu esfuerzo, y conservar tus logros,
+	lo mejor es que te registres en el menu principal.
+
+Como REGISTRARSE:
+
+ - Selecciona la opcion de "Unirse al juego".
+ - Rellena los datos.
+
+Como INICIAR SESION:
+
+ - Automaticamente al registrarse.
+ - Al inicio del juego, basta con poner tu nombre de usuario y contraseña.
+ - En la opcion "Iniciar mi sesion" del menu principal.
+
+Como CERRAR SESION:
+
+ - Basta con seleccionar "Iniciar mi sesion" e introducir "s" o "salir"
+
+Ver tus ESTADISTICAS:
+
+ - En el menu principal "Ver estadisticas".
+ - Solo se guardaran de forma permanente si eres un usuario registrado.
+
+Ver el RANKING ATPong:
+
+- Puedes comparar tus resultados con los del resto de usuarios.
+
+Tu PUNTUACION MAXIMA:
+
+ - Dependera del tiempo que hayas aguantado contra la cpu.
+ - De la dificultad.
+ - De si ganaste o perdiste el punto 
+ - La puntuacion maxima se considera respecto a un punto, no toda una partida.
+
+Como BORRARSE:
+
+ - Seleccionando "Me quiero borrar en el menu principal"
+ - Atencion, ESTO BORRARA TUS ESTADISTICAS Y LOGROS
+
+XXX
